@@ -1,4 +1,4 @@
-# F1 Pit Loss AnalysiS
+# F1 Pit Loss Analysis
 This project estimates how much time each Formula 1 pit stop costs. For each stop, it compares the in-lap and out-lap times with the driver's normal race pace. The difference is the pit loss.
 
 # Data
